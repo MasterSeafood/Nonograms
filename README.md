@@ -1,6 +1,7 @@
 # Nonograms
 
 Summative for ICS4U (Grade 12 Computer Science)
+
 Uses Java and Java Swing
 
 ## Introduction
