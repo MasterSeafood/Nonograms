@@ -1,10 +1,11 @@
 # Nonograms
 
 Summative for ICS4U (Grade 12 Computer Science)
+Uses Java and Java Swing
 
 ## Introduction
 “Nonograms” is a program which allows the user to play randomly generated nonograms. The program can also solve simple user-inputted nonograms. The user can also create and share their own custom nonograms. 
-What is a nonogram?
+## What is a nonogram?
 A nonogram is a puzzle consisting of a grid of squares. Each square can filled in or marked with a cross. Beside each row, the lengths of the runs of filled squares for that row are listed in order. Above each column, the lengths of the runs of filled squares for that column are listed in order. The player’s goal is to find all the filled squares.
 
 ## Instructions
